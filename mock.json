@@ -1,0 +1,100 @@
+{
+  "blocks": [
+    {
+      "type": "header",
+      "text": {
+        "type": "plain_text",
+        "text": "Would you rather:",
+        "emoji": true
+      }
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "section",
+      "text": {
+        "type": "mrkdwn",
+        "text": "Whatever"
+      },
+      "accessory": {
+        "type": "button",
+        "text": {
+          "type": "plain_text",
+          "text": "Vote",
+          "emoji": true
+        },
+        "value": "click_me_123",
+        "action_id": "button-action"
+      }
+    },
+    {
+      "type": "context",
+      "elements": [
+        {
+          "type": "image",
+          "image_url": "https://pbs.twimg.com/profile_images/625633822235693056/lNGUneLX_400x400.jpg",
+          "alt_text": "cute cat"
+        },
+        {
+          "type": "image",
+          "image_url": "https://pbs.twimg.com/profile_images/625633822235693056/lNGUneLX_400x400.jpg",
+          "alt_text": "cute cat"
+        },
+        {
+          "type": "image",
+          "image_url": "https://pbs.twimg.com/profile_images/625633822235693056/lNGUneLX_400x400.jpg",
+          "alt_text": "cute cat"
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "section",
+      "text": {
+        "type": "mrkdwn",
+        "text": "Whatever"
+      },
+      "accessory": {
+        "type": "button",
+        "text": {
+          "type": "plain_text",
+          "text": "Vote",
+          "emoji": true
+        },
+        "value": "click_me_123",
+        "action_id": "button-action"
+      }
+    },
+    {
+      "type": "context",
+      "elements": [
+        {
+          "type": "image",
+          "image_url": "https://pbs.twimg.com/profile_images/625633822235693056/lNGUneLX_400x400.jpg",
+          "alt_text": "cute cat"
+        },
+        {
+          "type": "image",
+          "image_url": "https://pbs.twimg.com/profile_images/625633822235693056/lNGUneLX_400x400.jpg",
+          "alt_text": "cute cat"
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "context",
+      "elements": [
+        {
+          "type": "plain_text",
+          "text": "Poll created by: @whoever",
+          "emoji": true
+        }
+      ]
+    }
+  ]
+}
